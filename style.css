@@ -833,6 +833,10 @@ h4 {
     color: #000000!important;
 }
 
+#bloc-5-cta h2{
+    position: relative;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
