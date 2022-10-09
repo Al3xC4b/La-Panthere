@@ -335,6 +335,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    border-bottom: solid 1px black;
 }
 
 .navbar-toggle {
@@ -857,7 +858,6 @@ h4 {
 .subtitle{
     font-size: 18px;
 }
-
 
 
 @media (max-width: 1024px) {
